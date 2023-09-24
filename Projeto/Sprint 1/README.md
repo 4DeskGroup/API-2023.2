@@ -15,6 +15,10 @@
 <p> • Desenvolver interfaces (front-end). </p>
 <p> • Conexão do front-end com o back-end (Banco de dados receber e transmitir dados juntamente a aplicação em desenvolvimento). </p>
 
+## Modelo conceitual banco de dados 🧩:
+
+<img align="center" src="Gifs/LoginGIF.gif"/>
+
 ## Demonstração do Login 💻:
 
 <img align="center" src="Gifs/LoginGIF.gif"/>
