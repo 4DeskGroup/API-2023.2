@@ -28,7 +28,7 @@ Uma interface permitindo que os usúarios, sejam, criados, visualizados, editado
  
  
 
- :white_check_mark: [SPRINT 1] - 04/09/2023 à 24/09/2023 - <a href="https://github.com/4DeskGroup/API-2023.2/Projeto/Sprint 1/">Acesse o Release aqui</a>
+ :white_check_mark: [SPRINT 1] - 04/09/2023 à 24/09/2023 - <a href="https://github.com/4DeskGroup/API-2023.1/releases/tag/SPRINT1">Acesse o Release aqui</a>
 
  :white_check_mark: [SPRINT 2] - 03/04/2023 à 23/04/2023 - <a href="https://github.com/4DeskGroup/API-2023.1/releases/tag/SPRINT2">Acesse o Release aqui</a>
  
@@ -65,4 +65,3 @@ Uma interface permitindo que os usúarios, sejam, criados, visualizados, editado
 |   Diane Moreno    |  Desenvolvedora       |<a href="https://github.com/Diane-Moreno"><img src="https://user-images.githubusercontent.com/90328117/161353573-4c0e497a-b4fa-4f46-ade2-10b37360e2d2.jpg" class="media-object  img-responsive img-thumbnail"></a>                                                          |           <img src="https://user-images.githubusercontent.com/89950512/229543693-d01de2c8-14fc-4fea-be7a-b49e91b5ebb4.jpeg" style="width:50px;height:50px;">  
 |   Rita Hecht   |  Desenvolvedora       |<a href="https://github.com/ritahecht"><img src="https://user-images.githubusercontent.com/90328117/161353573-4c0e497a-b4fa-4f46-ade2-10b37360e2d2.jpg" class="media-object  img-responsive img-thumbnail"></a>                                                          |           <img src="https://user-images.githubusercontent.com/90328117/168085416-fec32d63-7a77-458f-bda8-0cab09491091.jpg" style="width:50px;height:50px;">
 |  Thyago Silveira       |  Desenvolvedor      | <a href="https://github.com/Thyaguixx"><img src="https://user-images.githubusercontent.com/90328117/161353573-4c0e497a-b4fa-4f46-ade2-10b37360e2d2.jpg" class="media-object  img-responsive img-thumbnail"></a>| <img src="/docs/thyaguixx imagem.jpeg" style="width:50px;height:50px;"> |
- 
