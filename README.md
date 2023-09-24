@@ -7,7 +7,7 @@
  <img src="https://user-images.githubusercontent.com/90328117/161355339-d016f60b-e185-49da-a5de-6c21f1965449.png" style="width:80px;height:40px;">
 </div>
 
-##### <p align="center"> Projeto Integrador - Sistema de Gerenciamento de Usúario </p>
+##### <p align="center"> Projeto Integrador - Sistema de transações </p>
 
 ##### <p align="center">  Empresa parceira: </p>
  
@@ -28,7 +28,7 @@ Uma interface permitindo que os usúarios, sejam, criados, visualizados, editado
  
  
 
- :white_check_mark: [SPRINT 1] - 13/03/2023 à 02/04/2023 - <a href="https://github.com/4DeskGroup/API-2023.1/releases/tag/SPRINT1">Acesse o Release aqui</a>
+ :white_check_mark: [SPRINT 1] - 04/09/2023 à 24/09/2023 - <a href="https://github.com/4DeskGroup/API-2023.2/Projeto/Sprint 1/">Acesse o Release aqui</a>
 
  :white_check_mark: [SPRINT 2] - 03/04/2023 à 23/04/2023 - <a href="https://github.com/4DeskGroup/API-2023.1/releases/tag/SPRINT2">Acesse o Release aqui</a>
  
