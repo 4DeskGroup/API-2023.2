@@ -15,10 +15,10 @@
 <p> • Desenvolver interfaces (front-end). </p>
 <p> • Conexão do front-end com o back-end (Banco de dados receber e transmitir dados juntamente a aplicação em desenvolvimento). </p>
 
-## Demonstração do Login:
+## Demonstração do Login 💻:
 
 <img align="center" src="Gifs/LoginGIF.gif"/>
 
-## Demonstração do cadastro de parceiro:
+## Demonstração do cadastro de parceiro 💻:
 
 <img align="center" src="Gifs/Registro-parceiroGIF.gif"/>
