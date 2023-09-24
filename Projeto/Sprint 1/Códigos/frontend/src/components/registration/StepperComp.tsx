@@ -119,7 +119,7 @@ export default function StepperComp() {
       const resultVerificaUsuario = await Axios.post("http://localhost:3001/verifica-usuario", {
         email: retorno?.usuario.UsuarioEmail
       });
-      
+
       if (resultVerificaUsuario.data.msg === "Email já existente") {
         MyToast.fire({
           icon: 'warning',
@@ -135,7 +135,7 @@ export default function StepperComp() {
         if (response.data.isSucesso) {
           const tokenFromServer = response.data.token;
           sessionStorage.setItem('TokenValidaEmail', tokenFromServer);
-  
+
           const result = await Swal.fire({
             icon: "success",
             title: "Um token foi enviado ao seu email, insira-o abaixo",
@@ -143,7 +143,7 @@ export default function StepperComp() {
             confirmButtonColor: green[900],
             preConfirm: () => {
               const tokenInput: HTMLInputElement | null = Swal.getPopup()?.querySelector('#token') || null;
-  
+
               if (tokenInput) {
                 const tokenEscrito = tokenInput.value;
                 console.log('Token escrito:', tokenEscrito);
@@ -154,7 +154,7 @@ export default function StepperComp() {
               }
             }
           });
-  
+
           if (result.isConfirmed && result.value.tokenEscrito === tokenFromServer) {
             return true;
           } else {
@@ -166,7 +166,7 @@ export default function StepperComp() {
           }
         }
       }
-      
+
     } catch (error) {
       console.error('Erro na função validaEmail:', error);
       return false;
@@ -188,12 +188,12 @@ export default function StepperComp() {
             if (response.data.Sucesso) {
               sessionStorage.setItem("UsuarioLogado", JSON.stringify(response.data.Usuario))
               // navigate("/par-saldo")
-              
+
               MyToast.fire({
                 icon: 'success',
                 title: response.data.msg
               }).then(() => navigate("/par-saldo"))
-              
+
             } else if (!response.data.Sucesso) {
               MyToast.fire({
                 icon: 'error',
@@ -219,7 +219,7 @@ export default function StepperComp() {
                 icon: 'success',
                 title: response.data.msg
               }).then(() => navigate("/estabelecimento"))
-              
+
             } else if (!response.data.Sucesso) {
               MyToast.fire({
                 icon: 'error',
@@ -247,6 +247,7 @@ export default function StepperComp() {
       setActiveStep((prevActiveStep) => prevActiveStep + 1);
       setIsPrevButtonDisabled(false)
     }
+
     if (activeStep === 1) {
       setIsPrevButtonDisabled(false)
       setBtnContent('Finalizar')
@@ -279,6 +280,8 @@ export default function StepperComp() {
     }
 
     const itemJson = sessionStorage.getItem("dados_step_2")
+    const itemJson2 = sessionStorage.getItem("dados_step_3")
+
     if (itemJson && activeStep === 2) {
       const step2 = JSON.parse(itemJson)
       setDadosStep2({
@@ -288,9 +291,46 @@ export default function StepperComp() {
         confirmSenha: step2.confirmSenha,
       });
     }
+
+    if (itemJson2 && activeStep === 1) {
+      const step3 = JSON.parse(itemJson2)
+
+      if (tipoUsuario === "Parceiro") {
+        setDadosStep3Parc({
+          RazaoSocial: step3.RazaoSocial,
+          NomeFantasia: step3.NomeFantasia,
+          cnpj: step3.cnpj,
+          DataInicioOp: step3.DataInicioOp,
+          ResponsavelEmpresa: step3.ResponsavelEmpresa,
+          VolumeOleo: step3.VolumeOleo,
+          Endereco: step3.Endereco,
+          Numero: step3.Numero,
+          Bairro: step3.Bairro,
+          Cidade: step3.Cidade,
+          uf: step3.uf,
+          CidadesAtendem: step3.CidadesAtendem,
+          Parceiros: step3.Parceiros
+        })
+      }
+
+      if (tipoUsuario === "Estabelecimento") {
+        setDadosStep3Estab({
+          RazaoSocial: step3.RazaoSocial,
+          NomeFantasia: step3.NomeFantasia,
+          cnpj: step3.cnpj,
+          DataInicioOp: step3.DataInicioOp,
+          ResponsavelEmpresa: step3.ResponsavelEmpresa,
+          VolumeOleo: step3.VolumeOleo,
+          Endereco: step3.Endereco,
+          Numero: step3.Numero,
+          Bairro: step3.Bairro,
+          Cidade: step3.Cidade,
+          uf: step3.uf,
+          Parceiros: step3.Parceiros
+        })
+      }
+    }
   }
-
-
 
   return (
     <ThemeProvider theme={theme}>
@@ -311,9 +351,9 @@ export default function StepperComp() {
         {activeStep === 1 ? <FormRegistration2 parametros={handleFieldChange_Step2} dados={dadosStep2} senhasCompativeis={setSenhasSaoDiferentes} /> : null}
         {activeStep === 2 ? (
           tipoUsuario === "Parceiro" ? (
-            <FormRegistration3Parc parametros={handleFieldChange_Step3Parc} />
+            <FormRegistration3Parc parametros={handleFieldChange_Step3Parc} dados={dadosStep3Parc} />
           ) : tipoUsuario === "Estabelecimento" ? (
-            <FormRegistration3Estab parametros={handleFieldChange_Step3Estab} />
+            <FormRegistration3Estab parametros={handleFieldChange_Step3Estab} dados={dadosStep3Estab} />
           ) : null
         ) : null}
         <Container maxWidth="sm">
