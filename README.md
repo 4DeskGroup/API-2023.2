@@ -31,7 +31,7 @@
  
  # :bulb: Backlog
  <div align="left">
-   <img align="center" src="docs/backlog-total.jpg"/>
+   <img align="center" src="docs/backlog-total.jpg" width="500" height="300"/>
  </div>
 
 
