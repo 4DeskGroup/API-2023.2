@@ -17,7 +17,7 @@
 
 ## Modelo conceitual banco de dados 🧩:
 
-<img align="center" src="Gifs/LoginGIF.gif"/>
+<img align="center" src="Gifs/BancoConceitual.png"/>
 
 ## Demonstração do Login 💻:
 
