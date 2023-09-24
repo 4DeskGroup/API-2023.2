@@ -10,6 +10,11 @@
 <p> • Formulário de cadastro dos estabelecimentos onde o óleo será coletado.(Restaurantes, estabelecimentos comerciais em geral, condomínios, público em geral). </p>
 <p> • Sistema de login de usuário. </p>
 
+### Requisitos Não-Funcionais
+<p> • Desenvolver banco de dados para registrar informações inseridas no sistema. </p>
+<p> • Desenvolver interfaces (front-end). </p>
+<p> • Conexão do front-end com o back-end (Banco de dados receber e transmitir dados juntamente a aplicação em desenvolvimento). </p>
+
 ## Demonstração do Login:
 
 <img align="center" src="Gifs/LoginGIF.gif"/>
