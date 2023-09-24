@@ -22,3 +22,7 @@
 ## Demonstração do cadastro de parceiro 💻:
 
 <img align="center" src="Gifs/Registro-parceiroGIF.gif"/>
+
+## Demonstração do cadastro de estabelecimento 💻:
+
+<img align="center" src="Gifs/RegistroEstabelecimentoGIF.gif"/>
