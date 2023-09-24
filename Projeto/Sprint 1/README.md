@@ -30,3 +30,11 @@
 ## Demonstração do cadastro de estabelecimento 💻:
 
 <img align="center" src="Gifs/RegistroEstabelecimentoGIF.gif"/>
+
+## Demonstração tela transação e extrato de Parceiro 💻:
+
+<img align="center" src="Gifs/ParceiroExtratoSaldoGIF.gif"/>
+
+## Demonstração tela transação e extrato de Estabelecimento 💻:
+
+<img align="center" src="Gifs/EstabelecimentoExtratoSaldoGIF.gif"/>
