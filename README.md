@@ -32,7 +32,7 @@ Uma interface permitindo que os usúarios, sejam, criados, visualizados, editado
  
  # :bulb: Backlog
  <div align="left">
-
+   <img align="center" src="docs/backlog-total.jpg"/>
  </div>
 
 
