@@ -17,10 +17,9 @@
 [O Projeto](https://github.com/4DeskGroup/API-2023.1/edit/main/README.md) • [Calendário Entrega Sprints](https://github.com/4DeskGroup/API-2023.1/edit/main/README.md#-planejamento-de-entregas) •
 </div>
 
-# :dart: O Projeto
+# :dart: Objetivo do projeto
 
-<p align="left"> Desenvolver um sistema de Gerenciamento de Usuário, com tecnologia de micro serviços.
-Uma interface permitindo que os usúarios, sejam, criados, visualizados, editados e removidos. </p>
+<p align="left"> Criar uma plataforma que gerencie os créditos a serem usados comocontrapartida no momento da coleta do material pelo parceiro da Greenneat nos estabelecimentoscadastrados. De forma que os créditos poderão ser usados posteriormente para compra dossaneantes na loja virtual. </p>
 
 ## ⏳ Planejamento de entregas
 
