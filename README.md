@@ -19,7 +19,7 @@
 
 # :dart: Objetivo do projeto
 
-<p align="left"> Criar uma plataforma que gerencie os créditos a serem usados comocontrapartida no momento da coleta do material pelo parceiro da Greenneat nos estabelecimentoscadastrados. De forma que os créditos poderão ser usados posteriormente para compra dossaneantes na loja virtual. </p>
+<p align="left"> Criar uma plataforma que gerencie os créditos a serem usados como contrapartida no momento da coleta do material pelo parceiro da Greenneat nos estabelecimentos cadastrados. De forma que os créditos poderão ser usados posteriormente para compra dos saneantes na loja virtual. </p>
 
 ## ⏳ Planejamento de entregas
 
