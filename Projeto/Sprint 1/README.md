@@ -16,6 +16,7 @@
 <p> • Conexão do front-end com o back-end (Banco de dados receber e transmitir dados juntamente a aplicação em desenvolvimento). </p>
 
 ## Burndown:chart_with_downwards_trend:
+![image](https://github.com/4DeskGroup/API-2023.2/blob/main/Projeto/Sprint%201/burndown-sprint1.png)
 
 
 ## Modelo conceitual banco de dados 🧩:
