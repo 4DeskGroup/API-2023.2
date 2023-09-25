@@ -15,6 +15,9 @@
 <p> • Desenvolver interfaces (front-end). </p>
 <p> • Conexão do front-end com o back-end (Banco de dados receber e transmitir dados juntamente a aplicação em desenvolvimento). </p>
 
+## Burndown:chart_with_downwards_trend:
+
+
 ## Modelo conceitual banco de dados 🧩:
 
 <img align="center" src="Gifs/BancoConceitual.png"/>
