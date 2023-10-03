@@ -79,7 +79,7 @@ export default function EstNestedList() {
           sx={{
             width: '100%',
             bgcolor: 'background.paper',
-            zIndex: 0
+            zIndex: 3
           }}
           component="nav"
           aria-labelledby="nested-list-subheader"
