@@ -22,7 +22,7 @@
 
 ## Burndown:chart_with_downwards_trend:
 ![image]()
-
+<img align="center" src="Gifs/User%20Story2%20API4SEM.xlsx"/>
 
 ## Modelo lógico banco de dados 🧩:
 
