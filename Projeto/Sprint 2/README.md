@@ -6,7 +6,7 @@
 
 ## Backlog do produto :bulb:
 ### Requisitos Funcionais
-<p> • Cadastro de estoque de óleo (Estabelecimento). </p>
+<p> • Cadastro de estoque de óleo, capacidade de cadastrar óleo sendo ele limpo ou usado no estoque do estabelecimento. (Estabelecimento). </p>
 <p> • Visualização de histórico de cadastro de óleo (Estabelecimento). </p>
 <p> • Transação de Grenneat(Moeda) com a empresa, capacidade de enviar Grenneats com a empresa. (Estabelecimento). </p>
 <p> • Visualização do histórico de extrato feito nas transações com a Empresa (Estabelecimento). </p>
