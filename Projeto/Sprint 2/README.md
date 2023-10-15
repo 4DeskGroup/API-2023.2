@@ -31,12 +31,12 @@
 
 ## Demonstração de transação de Grenneat por óleo com estabelecimento e extrato(Parceiro) 💻:
 
-<img align="center" src="Gifs/RegistroEstabelecimentoGIF.gif"/>
+<img align="center" src="Gifs/TRNParceiroEstab_1.gif"/>
 
 ## Demonstração de transação de óleo por Grenneat com empresa e extrato(Parceiro) 💻:
 
-<img align="center" src="Gifs/ParceiroExtratoSaldoGIF.gif"/>
+<img align="center" src="Gifs/TRNParcEmp_1.giff"/>
 
 ## Demonstração de historico estoque do parceiro 💻:
 
-<img align="center" src="Gifs/EstabelecimentoExtratoSaldoGIF.gif"/>
+<img align="center" src="Gifs/ParcEstoque_1.gif"/>
