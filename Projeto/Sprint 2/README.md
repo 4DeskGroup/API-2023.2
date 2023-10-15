@@ -21,22 +21,22 @@
 
 <img align="center" src="Gifs/BancoConceitual.png"/>
 
-## Demonstração do Login 💻:
+## Demonstração de cadastro de estoque e historico(Estabelecimento) 💻:
 
 <img align="center" src="Gifs/LoginGIF.gif"/>
 
-## Demonstração do cadastro de parceiro 💻:
+## Demonstração de transação de Grenneat com empresa e extrato(Estabelecimento) 💻:
 
 <img align="center" src="Gifs/Registro-parceiroGIF.gif"/>
 
-## Demonstração do cadastro de estabelecimento 💻:
+## Demonstração de transação de Grenneat por óleo com estabelecimento e extrato(Parceiro) 💻:
 
 <img align="center" src="Gifs/RegistroEstabelecimentoGIF.gif"/>
 
-## Demonstração tela transação e extrato de Parceiro 💻:
+## Demonstração de transação de óleo por Grenneat com empresa e extrato(Parceiro) 💻:
 
 <img align="center" src="Gifs/ParceiroExtratoSaldoGIF.gif"/>
 
-## Demonstração tela transação e extrato de Estabelecimento 💻:
+## Demonstração de historico estoque do parceiro 💻:
 
 <img align="center" src="Gifs/EstabelecimentoExtratoSaldoGIF.gif"/>
