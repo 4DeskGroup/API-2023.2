@@ -6,9 +6,7 @@
 
 ## Backlog do produto :bulb:
 ### Requisitos Funcionais
-<p> • Formulário de cadastro do parceiro Greenneat. (Cooperativas, profissionaisindividuais e empresas que fazem a coleta regular do óleo). </p>
-<p> • Formulário de cadastro dos estabelecimentos onde o óleo será coletado.(Restaurantes, estabelecimentos comerciais em geral, condomínios, público em geral). </p>
-<p> • Sistema de login de usuário. </p>
+<p> • ADICIONAR. </p>
 
 ### Requisitos Não-Funcionais
 <p> • Desenvolver banco de dados para registrar informações inseridas no sistema. </p>
