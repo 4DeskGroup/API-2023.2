@@ -31,6 +31,7 @@
  
 
  :white_check_mark: [SPRINT 1] - 04/09/2023 à 24/09/2023 - <a href="https://github.com/4DeskGroup/API-2023.2/tree/main/Projeto/Sprint%201">Acesse a primeira entrega aqui</a>
+ :white_check_mark: [SPRINT 2] - 24/09/2023 à 16/10/2023 - <a href="https://github.com/4DeskGroup/API-2023.2/tree/main/Projeto/Sprint%201">Acesse a primeira entrega aqui</a>
  
  # :bulb: Backlog
  <div align="left">
