@@ -7,13 +7,13 @@
 ## Backlog do produto :bulb:
 ### Requisitos Funcionais
 <p> • Cadastro de estoque de óleo (Estabelecimento). </p>
-<p> • Visualização de historico de cadastro de óleo (Estabelecimento). </p>
+<p> • Visualização de histórico de cadastro de óleo (Estabelecimento). </p>
 <p> • Transação de Grenneat(Moeda) com a empresa, capacidade de enviar Grenneats com a empresa. (Estabelecimento). </p>
-<p> • Visualização do historico de extrato feito nas transações com a Empresa (Estabelecimento). </p>
+<p> • Visualização do histórico de extrato feito nas transações com a Empresa (Estabelecimento). </p>
 <p> • Transação entre Parceiro e Estabelecimento, capacidade de trocar Grenneats(Moeda) por óleo (Parceiro).  </p>
-<p> • Vizualização do historico de extrato feito na transação entre Parceiro e Estabelecimento (Parceiro).  </p>
+<p> • Visualização do histórico de extrato feito na transação entre Parceiro e Estabelecimento (Parceiro).  </p>
 <p> • Transação entre Parceiro e Empresa, capacidade de trocar óleo por Grenneats(Moeda) (Parceiro).  </p>
-<p> • Visualização do historico de extrato feito na transação entre Parceiro e Estabelecimento (Parceiro).  </p>
+<p> • Visualização do histórico de extrato feito na transação entre Parceiro e Estabelecimento (Parceiro).  </p>
 
 ### Requisitos Não-Funcionais
 <p> • Desenvolver banco de dados para registrar informações inseridas no sistema. </p>
