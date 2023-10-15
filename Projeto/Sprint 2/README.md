@@ -25,9 +25,8 @@
 <img align="center" src="Gifs/User%20Story2%20API4SEM.xlsx"/>
 
 
-## User Storie:chart_with_downwards_trend:
+## User Storie: 👤:
 [Baixe o arquivo XLSX](https://github.com/4DeskGroup/API-2023.2/blob/main/Projeto/Sprint%202/Gifs/User%20Story2%20API4SEM.xlsx)
-
 
 ## Modelo lógico banco de dados 🧩:
 
