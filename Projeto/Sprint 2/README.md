@@ -27,7 +27,7 @@
 
 ## Demonstração de transação de Grenneat com empresa e extrato(Estabelecimento) 💻:
 
-<img align="center" src="Gifs/Registro-parceiroGIF.gif"/>
+<img align="center" src="Gifs/EstabEmpresa.gif"/>
 
 ## Demonstração de transação de Grenneat por óleo com estabelecimento e extrato(Parceiro) 💻:
 
