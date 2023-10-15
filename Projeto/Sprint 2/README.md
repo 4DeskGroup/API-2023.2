@@ -17,7 +17,7 @@
 ![image]()
 
 
-## Modelo conceitual banco de dados 🧩:
+## Modelo lógico banco de dados 🧩:
 
 <img align="center" src="Gifs/BancoConceitual.png"/>
 
