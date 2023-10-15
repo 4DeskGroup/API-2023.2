@@ -23,7 +23,7 @@
 
 ## Demonstração de cadastro de estoque e historico(Estabelecimento) 💻:
 
-<img align="center" src="Gifs/LoginGIF.gif"/>
+<img align="center" src="Gifs/CadastroEstoque.gif"/>
 
 ## Demonstração de transação de Grenneat com empresa e extrato(Estabelecimento) 💻:
 
