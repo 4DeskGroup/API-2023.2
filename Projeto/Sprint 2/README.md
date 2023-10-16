@@ -20,9 +20,10 @@
 <p> • Desenvolver interfaces (front-end). </p>
 <p> • Conexão do front-end com o back-end (Banco de dados receber e transmitir dados juntamente a aplicação em desenvolvimento). </p>
 
-## Burndown:chart_with_downwards_trend:
-![image]()
-<img align="center" src="Gifs/User%20Story2%20API4SEM.xlsx"/>
+# 📉 Burndown
+<div align="left">
+ <img src="https://github.com/4DeskGroup/API-2023.2/blob/main/docs/burndown.jpg" width="500" height="300"/>
+</div>
 
 
 ## User Storie: 👤:
