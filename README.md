@@ -38,10 +38,7 @@
    <img align="center" src="docs/backlog-ray.jpg" width="500" height="300"/>
  </div>
 
-# 📉 Burndown
-<div align="left">
- <img src="https://github.com/4DeskGroup/API-2023.2/blob/main/docs/burndown.jpg" width="500" height="300"/>
-</div>
+
 
 # :computer: Tecnologias 
 
