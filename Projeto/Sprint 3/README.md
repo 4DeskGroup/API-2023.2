@@ -6,14 +6,14 @@
 
 ## Backlog do produto :bulb:
 ### Requisitos Funcionais
-<p> • Transferir moedas para a empresa. (Parceiro). </p>
-<p> • Visualização de histórico de moedas dadas pela empresa (Parceiro). </p>
 <p> • Transação de Grenneat(Moeda) com o parceiro (Empresa / Administrador). </p>
 <p> • Visualização do histórico de transferências chegas de moedas (Greenneat) pelos usuários (Empresa / Administrador).  </p>
 <p> • Transação empresa trocar óleo por Grenneat(Moeda) com parceiro(Empresa / Administrador). </p>
-<p> • Edição de informações do usuário logado (Parceiro e Estabelecimento).  </p>
 <p> • Visualização de todas as tranferências realizadas pelos usuários (Empresa / Administrador).  </p>
 <p> • Visualização dos usuários cadastrados e poder excluir / inativar um usuário (Empresa / Administrador).  </p>
+<p> • Transferir moedas para a empresa. (Parceiro). </p>
+<p> • Visualização de histórico de moedas dadas pela empresa (Parceiro). </p>
+<p> • Edição de informações do usuário logado (Parceiro e Estabelecimento).  </p>
 
 ### Requisitos Não-Funcionais
 <p> • Desenvolver banco de dados para registrar informações inseridas no sistema. </p>
@@ -37,6 +37,10 @@
 ## Demonstração de empresa enviar Grenneat(Moeda) para parceira (Empresa / Administrador) 💻:
 
 <img align="center" src="Gifs/EmpresaMandaCrerditoMp4.gif"/>
+
+## Demonstração da visualização do histórico de transferências chegas de moedas (Greenneat) pelos usuários (Empresa / Administrador)
+
+<img align="center" src="Gifs/EmpresaMoedasRecebidas.gif"/>
 
 ## Demonstração de transação de empresa trocar óleo por Grenneat(Moeda) com parceiro(Empresa / Administrador) 💻:
 
