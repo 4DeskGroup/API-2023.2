@@ -65,6 +65,6 @@
 
 ## Demonstração da visualização dos usuários cadastrados, podendo excluir / inativar um usuário (Empresa / Administrador)
 
-<img align="center" src="Gifs/ParcEstoque_1.gif"/>
+<img align="center" src="Gifs/ADMExcluiUser.gif"/>
 
 
