@@ -7,7 +7,7 @@
 ## Backlog do produto :bulb:
 ### Requisitos Funcionais
 <p> • Empresa enviar moeda para parceiro (Empresa / Administrador). </p>
-<p> • Visualização do histórico de transferências chegas de moedas (Greenneat) pelos usuários (Empresa / Administrador).  </p>
+<p> • Visualização do histórico de transferências chegas de Grenneat(Moeda) pelos usuários (Empresa / Administrador).  </p>
 <p> • Transação empresa trocar óleo por Grenneat(Moeda) com parceiro(Empresa / Administrador). </p>
 <p> • Visualização de todas as tranferências realizadas pelos usuários (Empresa / Administrador).  </p>
 <p> • Visualização dos usuários cadastrados e poder excluir / inativar um usuário (Empresa / Administrador).  </p>
