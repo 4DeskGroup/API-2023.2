@@ -6,14 +6,12 @@
 
 ## Backlog do produto :bulb:
 ### Requisitos Funcionais
-<p> • Cadastro de estoque de óleo, capacidade de cadastrar óleo sendo ele limpo ou usado no estoque do estabelecimento. (Estabelecimento). </p>
-<p> • Visualização de histórico de cadastro de óleo (Estabelecimento). </p>
-<p> • Transação de Grenneat(Moeda) com a empresa, capacidade de enviar Grenneats com a empresa. (Estabelecimento). </p>
-<p> • Visualização do histórico de extrato feito nas transações com a Empresa (Estabelecimento). </p>
-<p> • Transação entre Parceiro e Estabelecimento, capacidade de trocar Grenneats(Moeda) por óleo (Parceiro).  </p>
-<p> • Visualização do histórico de extrato feito na transação entre Parceiro e Estabelecimento (Parceiro).  </p>
-<p> • Transação entre Parceiro e Empresa, capacidade de trocar óleo por Grenneats(Moeda) (Parceiro).  </p>
-<p> • Visualização do histórico de extrato feito na transação entre Parceiro e Estabelecimento (Parceiro).  </p>
+<p> • Transferir moedas para a empresa. (Parceiro). </p>
+<p> • Visualização de histórico de moedas dadas pela empresa (Parceiro). </p>
+<p> • Transação de Grenneat(Moeda) com o parceiro (Empresa / Administrador). </p>
+<p> • Visualização do histórico de transferências chegas de moedas (Greenneat) pelos usuários (Empresa / Administrador).  </p>
+<p> • Visualização de todas as tranferências realizadas pelos usuários (Empresa / Administrador).  </p>
+<p> • Visualização dos usuários cadastrados e poder excluir / inativar um usuário (Empresa / Administrador).  </p>
 
 ### Requisitos Não-Funcionais
 <p> • Desenvolver banco de dados para registrar informações inseridas no sistema. </p>
