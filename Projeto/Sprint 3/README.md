@@ -67,7 +67,7 @@
 
 <img align="center" src="Gifs/HistoricoMoedasrecebidas.gif"/>
 
-## Demonstração da transferência de moedas para a empresa e visualização de histórico de moedas dadas pela empresa (Parceiro)
+## Demonstração da transferência de moedas para a empresa e visualização do histórico (Parceiro)
 
 <img align="center" src="Gifs/ParceiroEnviaMoedaEmpresa.gif"/>
 
