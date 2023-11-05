@@ -35,7 +35,7 @@
 <img align="center" src="Gifs/API_BD-2023-11-04_23-55.png"/>
 
 
-## Demonstração de empresa enviar Grenneat(Moeda) para parceira (Empresa / Administrador) 💻:
+## Demonstração de empresa enviar Grenneat(Moeda) para parceiro (Empresa / Administrador) 💻:
 
 <img align="center" src="Gifs/EmpresaMandaCrerditoMp4.gif"/>
 
