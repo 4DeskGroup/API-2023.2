@@ -43,7 +43,7 @@
 
 ## Demonstração do histórico de transferências chegas de moedas (Greenneat) pelos usuários (Empresa / Administrador) 💻:
 
-<img align="center" src="Gifs/ParcEstoque_1.gif"/>
+<img align="center" src="Gifs/HistoricoMoedasrecebidas.gif"/>
 
 ## Demonstração de transação de empresa trocar óleo por Grenneat(Moeda) com parceiro(Empresa / Administrador) 💻:
 
