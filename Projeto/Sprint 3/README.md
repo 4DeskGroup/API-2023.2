@@ -23,7 +23,7 @@
 
 # 📉 Burndown
 <div align="left">
- <img src="https://github.com/4DeskGroup/API-2023.2/blob/main/docs/burndown.jpg" width="500" height="300"/>
+ <img src="https://github.com/4DeskGroup/API-2023.2/blob/main/Projeto/Sprint%203/Gifs/burndown-sprint-3.png" width="600" height="400"/>
 </div>
 
 
