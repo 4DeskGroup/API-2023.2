@@ -72,4 +72,4 @@
 
 ## Demonstração da edição de informações do usuário logado (Parceiro e Estabelecimento)
 
-<img align="center" src="Gifs/ParcEstoque_1.gif"/>
+<img align="center" src="Gifs/UsuarioEdicao.gif"/>
