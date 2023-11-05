@@ -10,6 +10,7 @@
 <p> • Visualização de histórico de moedas dadas pela empresa (Parceiro). </p>
 <p> • Transação de Grenneat(Moeda) com o parceiro (Empresa / Administrador). </p>
 <p> • Visualização do histórico de transferências chegas de moedas (Greenneat) pelos usuários (Empresa / Administrador).  </p>
+<p> • Transação empresa trocar óleo por Grenneat(Moeda) com parceiro(Empresa / Administrador). </p>
 <p> • Edição de informações do usuário logado (Parceiro e Estabelecimento).  </p>
 <p> • Visualização de todas as tranferências realizadas pelos usuários (Empresa / Administrador).  </p>
 <p> • Visualização dos usuários cadastrados e poder excluir / inativar um usuário (Empresa / Administrador).  </p>
@@ -36,7 +37,7 @@
 
 <img align="center" src="Gifs/ParcEstoque_1.gif"/>
 
-## Demonstração de empresa enviar Grenneat(Moeda) para parceira (Empresa/ADM) 💻:
+## Demonstração de empresa enviar Grenneat(Moeda) para parceira (Empresa / Administrador) 💻:
 
 <img align="center" src="Gifs/EmpresaMandaCrerditoMp4.gif"/>
 
@@ -44,7 +45,7 @@
 
 <img align="center" src="Gifs/ParcEstoque_1.gif"/>
 
-## Demonstração de transação de empresa trocar óleo por Grenneat(Moeda) com parceiro(Empresa/ADM) 💻:
+## Demonstração de transação de empresa trocar óleo por Grenneat(Moeda) com parceiro(Empresa / Administrador) 💻:
 
 <img align="center" src="Gifs/EmrpesaComrpaOleoParc.gif"/>
 
@@ -52,7 +53,7 @@
 
 <img align="center" src="Gifs/EmpresaEstoque.gif"/>
 
-## Demonstração de transação com estoque de óleo da Empresa(Empresa/ADM) 💻:
+## Demonstração de transação com estoque de óleo da Empresa(Empresa / Administrador) 💻:
 
 <img align="center" src="Gifs/TRNEmpresaEstoque.gif"/>
 
