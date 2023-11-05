@@ -10,6 +10,7 @@
 <p> • Visualização de histórico de moedas dadas pela empresa (Parceiro). </p>
 <p> • Transação de Grenneat(Moeda) com o parceiro (Empresa / Administrador). </p>
 <p> • Visualização do histórico de transferências chegas de moedas (Greenneat) pelos usuários (Empresa / Administrador).  </p>
+<p> • Edição de informações do usuário logado (Parceiro e Estabelecimento).  </p>
 <p> • Visualização de todas as tranferências realizadas pelos usuários (Empresa / Administrador).  </p>
 <p> • Visualização dos usuários cadastrados e poder excluir / inativar um usuário (Empresa / Administrador).  </p>
 
@@ -47,6 +48,14 @@
 
 <img align="center" src="Gifs/TRNEmpresaEstoque.gif"/>
 
-## Demonstração de historico estoque do parceiro 💻:
+## Demonstração do histórico de transferências chegas de moedas (Greenneat) pelos usuários (Empresa / Administrador) 💻:
+
+<img align="center" src="Gifs/ParcEstoque_1.gif"/>
+
+## Demonstração da edição de informações do usuário logado (Parceiro e Estabelecimento)
+
+<img align="center" src="Gifs/ParcEstoque_1.gif"/>
+
+## Demonstração da visualização dos usuários cadastrados, podendo excluir / inativar um usuário (Empresa / Administrador)
 
 <img align="center" src="Gifs/ParcEstoque_1.gif"/>
