@@ -99,7 +99,7 @@ export const Rotas = () => {
             </PrivateRouteParceiro>
           } />
 
-<Route path="/transf-realiz-usuario"
+        <Route path="/transf-realiz-usuario"
           element={
             <PrivateRouteADM>
               <TransfRealizUsuario />

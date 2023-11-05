@@ -49,7 +49,7 @@ const client = new Pool({
     user: "postgres",
     host: "localhost",
     database: "API - 4Desk",    //trocar para o nome do seu banco local
-    password: "1234",      //trocar para a senha do seu banco local
+    password: "123",      //trocar para a senha do seu banco local
     port: 5432
 })
 

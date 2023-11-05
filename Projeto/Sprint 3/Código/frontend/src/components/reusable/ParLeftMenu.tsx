@@ -183,7 +183,7 @@ function ParLeftMenu() {
 
             <ListItemButton sx={{ pl: 5 }}>
               <img src={extrato} alt="png" width="20px" />
-              <ListItemText sx={{ pl: 3 }} primary="Greenneats recebidas da empresa" onClick={() => navigate('/parceiro-empresa-transacao')} />
+              <ListItemText sx={{ pl: 3 }} primary="Greenneats recebidas da empresa" onClick={() => navigate('/par-credito-greenneat')} />
             </ListItemButton>
 
             <ListItemButton sx={{ pl: 5 }}>

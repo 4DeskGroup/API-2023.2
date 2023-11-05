@@ -20,7 +20,7 @@ export async function POSTEmpresaEnviarMoedaParceiro(client, ParceiroNome, histo
             const creditoAtual = parceirocreditoquantidade;
             const creditoRequerido = historicoParceiroEmpresaObj.CreditoQuantidade;
 
-            const novoCredito = creditoAtual + creditoRequerido;
+            const novoCredito = parseFloat(creditoAtual) + parseFloat(creditoRequerido);
 
             // Realizar a atualização do crédito
             const updateQuery = 'UPDATE Parceiro SET ParceiroCreditoQuantidade = $1 WHERE ParceiroID = $2';

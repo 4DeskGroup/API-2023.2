@@ -152,20 +152,13 @@ export async function POSTEmpresaCompraOleoParceiro(client, UsuarioID, ParceiroI
         const parceiroquantidadecredito = resultGETParceiroQuantidadeCredito.rows[0].parceirocreditoquantidade;
 
         LOCALERRO = 'UPDATE PARCEIRO CREDITO';
-        const somaQuantidade = parceiroquantidadecredito + transacaoEmpresaParceiro.ParceiroCreditoQuantidade;
+        const novaQuantidade = parseFloat(parceiroquantidadecredito) + parseFloat(transacaoEmpresaParceiro.ParceiroCreditoQuantidade);
 
         const updateParceiroQuery = {
-          text: `
-            UPDATE Parceiro
-            SET ParceiroCreditoQuantidade = $1
-            WHERE ParceiroID = $2
-          `,
-          values: [
-            somaQuantidade,
-            ParceiroID,
-          ],
+          text: 'UPDATE Parceiro SET ParceiroCreditoQuantidade = $1 WHERE ParceiroID = $2',
+          values: [novaQuantidade, ParceiroID],
         };
-
+      
         await client.query(updateParceiroQuery);
 
         await client.query('COMMIT');

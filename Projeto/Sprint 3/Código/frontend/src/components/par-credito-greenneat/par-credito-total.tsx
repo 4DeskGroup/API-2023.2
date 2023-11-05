@@ -20,7 +20,7 @@ const Item = styled(Paper)(({ theme }) => ({
 }));
 
 const CustomZero = styled('span')({
-  fontSize: '400%',
+  fontSize: '100%',
   marginRight: '15%',
   color: '#136935'
 });

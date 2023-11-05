@@ -183,12 +183,12 @@ function AdmLeftMenu() {
           <List component="div" disablePadding>
             <ListItemButton sx={{ pl: 5 }}>
               <img src={extrato} alt="png" width="20px" />
-              <ListItemText sx={{ pl: 3 }} primary="Parceiro" onClick={() => navigate('')}/>
+              <ListItemText sx={{ pl: 3 }} primary="Parceiro" onClick={() => navigate('/transf-realiz-usuario')}/>
             </ListItemButton>
 
             <ListItemButton sx={{ pl: 5 }}>
               <img src={extrato} alt="png" width="20px" />
-              <ListItemText sx={{ pl: 3 }} primary="Estabelecimento" onClick={() => navigate('')}/>
+              <ListItemText sx={{ pl: 3 }} primary="Estabelecimento" onClick={() => navigate('/transf-realiz-usuario')}/>
             </ListItemButton>
           </List>
         </Collapse>
