@@ -31,7 +31,7 @@
 
 ## Modelo lógico banco de dados 🧩:
 
-<img align="center" src="Gifs/BancoConceitual.png"/>
+<img align="center" src="Gifs/API_BD-2023-11-04_23-55.png"/>
 
 ## Demonstração de cadastro de estoque e historico(Estabelecimento) 💻:
 
