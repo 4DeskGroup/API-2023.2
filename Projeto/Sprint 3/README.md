@@ -54,6 +54,9 @@
 
 <img align="center" src="Gifs/TRNEmpresaEstoque.gif"/>
 
+## Demonstração da visualização de todas as tranferências realizadas pelos usuários (Empresa / Administrador)
+
+<img align="center" src="Gifs/ADMVisuHistoricos.gif"/>
 
 ## Demonstração da visualização dos usuários cadastrados, podendo excluir / inativar um usuário (Empresa / Administrador)
 
