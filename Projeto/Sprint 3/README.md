@@ -39,7 +39,7 @@
 
 <img align="center" src="Gifs/EmpresaMandaCrerditoMp4.gif"/>
 
-## Demonstração da visualização do histórico de transferências chegas de moedas (Greenneat) pelos usuários (Empresa / Administrador)
+## Demonstração da visualização do histórico de transferências chegas de Greenneat(Moeda) pelos usuários (Empresa / Administrador)
 
 <img align="center" src="Gifs/EmpresaMoedasRecebidas.gif"/>
 
