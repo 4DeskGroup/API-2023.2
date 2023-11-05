@@ -32,9 +32,17 @@
 
 <img align="center" src="Gifs/API_BD-2023-11-04_23-55.png"/>
 
-## Demonstração de empresa enviar Grenneat(Moeda) para parceira(Empresa/ADM) 💻:
+## Demonstração da transferência de moedas para a empresa e visualização de histórico de moedas dadas pela empresa (Parceiro)
+
+<img align="center" src="Gifs/ParcEstoque_1.gif"/>
+
+## Demonstração de empresa enviar Grenneat(Moeda) para parceira (Empresa/ADM) 💻:
 
 <img align="center" src="Gifs/EmpresaMandaCrerditoMp4.gif"/>
+
+## Demonstração do histórico de transferências chegas de moedas (Greenneat) pelos usuários (Empresa / Administrador) 💻:
+
+<img align="center" src="Gifs/ParcEstoque_1.gif"/>
 
 ## Demonstração de transação de empresa trocar óleo por Grenneat(Moeda) com parceiro(Empresa/ADM) 💻:
 
@@ -48,9 +56,7 @@
 
 <img align="center" src="Gifs/TRNEmpresaEstoque.gif"/>
 
-## Demonstração do histórico de transferências chegas de moedas (Greenneat) pelos usuários (Empresa / Administrador) 💻:
 
-<img align="center" src="Gifs/ParcEstoque_1.gif"/>
 
 ## Demonstração da edição de informações do usuário logado (Parceiro e Estabelecimento)
 
@@ -60,6 +66,4 @@
 
 <img align="center" src="Gifs/ParcEstoque_1.gif"/>
 
-## Demonstração da transferência de moedas para a empresa e visualização de histórico de moedas dadas pela empresa (Parceiro)
 
-<img align="center" src="Gifs/ParcEstoque_1.gif"/>
