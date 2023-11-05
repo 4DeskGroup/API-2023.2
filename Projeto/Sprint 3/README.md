@@ -31,21 +31,21 @@
 
 <img align="center" src="Gifs/API_BD-2023-11-04_23-55.png"/>
 
-## Demonstração de cadastro de estoque e historico(Estabelecimento) 💻:
+## Demonstração de empresa enviar Grenneat(Moeda) para parceira(Empresa/ADM) 💻:
 
-<img align="center" src="Gifs/CadastroEstoque.gif"/>
+<img align="center" src="Gifs/EmpresaMandaCrerditoMp4.gif"/>
 
-## Demonstração de transação de Grenneat com empresa e extrato(Estabelecimento) 💻:
+## Demonstração de transação de empresa trocar óleo por Grenneat(Moeda) com parceiro(Empresa/ADM) 💻:
 
-<img align="center" src="Gifs/EstabEmpresa.gif"/>
+<img align="center" src="Gifs/EmpresaMandaCrerditoMp4.gif"/>
 
-## Demonstração de transação de Grenneat por óleo com estabelecimento e extrato(Parceiro) 💻:
+## Demonstração de estoque de Empresa(Empresa/ADM) 💻:
 
-<img align="center" src="Gifs/TRNParcEstab2.gif"/>
+<img align="center" src="Gifs/EmpresaEstoque.gif"/>
 
-## Demonstração de transação de óleo por Grenneat com empresa e extrato(Parceiro) 💻:
+## Demonstração de transação com estoque de óleo da Empresa(Empresa/ADM) 💻:
 
-<img align="center" src="Gifs/TRNParcEmp_1.gif"/>
+<img align="center" src="Gifs/TRNEmpresaEstoque.gif"/>
 
 ## Demonstração de historico estoque do parceiro 💻:
 
