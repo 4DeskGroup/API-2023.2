@@ -1,4 +1,4 @@
-## Sprint 2 - Entrega de valor
+## Sprint 3 - Entrega de valor
 
 ## Resumo
 
