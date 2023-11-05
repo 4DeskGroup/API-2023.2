@@ -37,7 +37,7 @@
 
 ## Demonstração de transação de empresa trocar óleo por Grenneat(Moeda) com parceiro(Empresa/ADM) 💻:
 
-<img align="center" src="Gifs/EmpresaMandaCrerditoMp4.gif"/>
+<img align="center" src="Gifs/EmrpesaComrpaOleoParc.gif"/>
 
 ## Demonstração de estoque de Empresa(Empresa/ADM) 💻:
 
