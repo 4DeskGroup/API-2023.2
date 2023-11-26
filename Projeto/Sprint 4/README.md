@@ -9,7 +9,7 @@
 <p> • Administrador/Empresa parametrizar o valor do óleo em relação ao de greenneat (Empresa / Administrador). </p>
 <p> • Dashboard de dados (Empresa / Administrador).  </p>
 <p> • Validação de email (Usuarios / Cadastro).  </p>
-<p> • Deixar paginas com entendimento mais facil e simples (Administrador / Parceiro / Estabelecimento). </p>
+<p> • Páginas com entendimento mais facil e simples (Administrador / Parceiro / Estabelecimento). </p>
 
 ### Requisitos Não-Funcionais
 <p> • Desenvolver banco de dados para registrar informações inseridas no sistema. </p>
