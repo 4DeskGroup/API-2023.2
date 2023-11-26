@@ -28,7 +28,6 @@
 
 <img align="center" src="Gifs/API_BD-2023-11-04_23-55.png"/>
 
-## Demonstração de empresa enviar Grenneat(Moeda) para parceiro (Empresa / Administrador) 💻:
+## Demonstração de parametrização do valor de óleo em relação a Grenneat(Moeda) (Empresa / Administrador) 💻:
 
-<img align="center" src="Gifs/EmpresaMandaCrerditoMp4.gif"/>
-
+<img align="center" src="Gifs/ParametrizacaoOleoGIF.gif"/>
