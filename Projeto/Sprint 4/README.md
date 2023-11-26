@@ -6,9 +6,10 @@
 
 ## Backlog do produto :bulb:
 ### Requisitos Funcionais
-<p> • Empresa enviar moeda para parceiro (Empresa / Administrador). </p>
-<p> • Visualização do histórico de transferências chegas de Grenneat(Moeda) pelos usuários (Empresa / Administrador).  </p>
-<p> • Visualização de estoque da empresa com o historico do mesmo (Empresa / Administrador).  </p>
+<p> • Administrador/Empresa parametrizar o valor do óleo em relação ao de greenneat (Empresa / Administrador). </p>
+<p> • Dashboard de dados (Empresa / Administrador).  </p>
+<p> • Validação de email (Usuarios / Cadastro).  </p>
+<p> • Deixar paginas com entendimento mais facil e simples (Administrador / Parceiro / Estabelecimento). </p>
 
 ### Requisitos Não-Funcionais
 <p> • Desenvolver banco de dados para registrar informações inseridas no sistema. </p>
