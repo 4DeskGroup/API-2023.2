@@ -22,7 +22,7 @@
 </div>
 
 ## User Storie: 👤:
-[Baixe o arquivo XLSX](https://github.com/4DeskGroup/API-2023.2/blob/main/Projeto/Sprint%203/Gifs/UserStory%20API%20Sprt%203.xlsx)
+[Baixe o arquivo XLSX](https://github.com/4DeskGroup/API-2023.2/blob/main/Projeto/Sprint%204/Gifs/User%20Story4%20API4SEM.xlsx)
 
 ## Modelo lógico banco de dados 🧩:
 
