@@ -8,7 +8,7 @@
 ### Requisitos Funcionais
 <p> • Administrador/Empresa parametrizar o valor do óleo em relação ao de greenneat (Empresa / Administrador). </p>
 <p> • Dashboard de dados (Empresa / Administrador).  </p>
-<p> • Validação de email (Usuarios / Cadastro).  </p>
+<p> • Validação de email (Usuários / Cadastro).  </p>
 <p> • Páginas com entendimento mais facil e simples (Administrador / Parceiro / Estabelecimento). </p>
 
 ### Requisitos Não-Funcionais
@@ -35,3 +35,11 @@
 ## Demonstração de uso de parametrização do valor de óleo em relação a Grenneat(Moeda) (Empresa / Administrador) 💻:
 
 <img align="center" src="Gifs/DemonstracaoParametrizacaoGIF.gif"/>
+
+## Demonstração de validação de E-mail (Usuários) 💻:
+
+<img align="center" src="Gifs/ValidacaoEmailGIF.gif"/>
+
+## Demonstração de dashboard (Empresa / Administrador) 💻:
+
+<img align="center" src="Gifs/DashBoardGIF.gif"/>
