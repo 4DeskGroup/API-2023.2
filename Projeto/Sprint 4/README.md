@@ -32,14 +32,14 @@
 
 <img align="center" src="Gifs/ParametrizacaoOleoGIF.gif"/>
 
-## Demonstração de uso de parametrização do valor de óleo em relação a Grenneat(Moeda) (Empresa / Administrador) 💻:
+## Demonstração do uso da parametrização do valor de óleo em relação a Grenneat(Moeda) (Empresa / Administrador) 💻:
 
 <img align="center" src="Gifs/DemonstracaoParametrizacaoGIF.gif"/>
 
-## Demonstração de validação de E-mail (Usuários) 💻:
+## Demonstração da validação de E-mail (Usuários) 💻:
 
 <img align="center" src="Gifs/ValidacaoEmailGIF.gif"/>
 
-## Demonstração de dashboard (Empresa / Administrador) 💻:
+## Demonstração do dashboard (Empresa / Administrador) 💻:
 
 <img align="center" src="Gifs/DashBoardGIF.gif"/>
