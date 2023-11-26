@@ -28,7 +28,7 @@
 
 <img align="center" src="Gifs/API_BD-2023-11-26_17-41.png"/>
 
-## Demonstração de parametrização do valor de óleo em relação a Grenneat(Moeda) (Empresa / Administrador) 💻:
+## Demonstração do cadastro (parametrização) do valor de óleo em relação a Grenneat(Moeda) (Empresa / Administrador) 💻:
 
 <img align="center" src="Gifs/ParametrizacaoOleoGIF.gif"/>
 
