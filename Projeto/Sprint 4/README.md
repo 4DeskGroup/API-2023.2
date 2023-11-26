@@ -26,7 +26,7 @@
 
 ## Modelo lógico banco de dados 🧩:
 
-<img align="center" src="Gifs/API_BD-2023-11-04_23-55.png"/>
+<img align="center" src="Gifs/API_BD-2023-11-26_17-41.png"/>
 
 ## Demonstração de parametrização do valor de óleo em relação a Grenneat(Moeda) (Empresa / Administrador) 💻:
 
