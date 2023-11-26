@@ -31,3 +31,7 @@
 ## Demonstração de parametrização do valor de óleo em relação a Grenneat(Moeda) (Empresa / Administrador) 💻:
 
 <img align="center" src="Gifs/ParametrizacaoOleoGIF.gif"/>
+
+## Demonstração de uso de parametrização do valor de óleo em relação a Grenneat(Moeda) (Empresa / Administrador) 💻:
+
+<img align="center" src="Gifs/DemonstracaoParametrizacaoGIF.gif"/>
