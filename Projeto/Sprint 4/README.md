@@ -2,14 +2,14 @@
 
 ## Resumo
 
-<p> No primeiro estágio do projeto, a equipe estabelece com o cliente a entrega de um produto viável mínimo, ou seja, que tenha funcionalidade de modo a suprir minimamente suas necessidades. Dessa maneira, o grupo visou entregar um sistema de login e cadastro de usuários, podendo ser do tipo Parceiro ou Estabelecimento.</p>
+<p> Nesta etapa final do projeto, foram realizados melhorias, sistema de parametrização do valor da moeda (Grenneat) por litro de óleo, e página de dashboard.</p>
 
 ## Backlog do produto :bulb:
 ### Requisitos Funcionais
-<p> • Administrador/Empresa parametrizar o valor do óleo em relação ao de greenneat (Empresa / Administrador). </p>
+<p> • Administrador/Empresa parametrizar o valor do óleo em relação ao valor de greenneat (Empresa / Administrador). </p>
 <p> • Dashboard de dados (Empresa / Administrador).  </p>
 <p> • Validação de email (Usuários / Cadastro).  </p>
-<p> • Páginas com entendimento mais facil e simples (Administrador / Parceiro / Estabelecimento). </p>
+<p> • Páginas com entendimento mais fácil e simples (Administrador / Parceiro / Estabelecimento). </p>
 
 ### Requisitos Não-Funcionais
 <p> • Desenvolver banco de dados para registrar informações inseridas no sistema. </p>
