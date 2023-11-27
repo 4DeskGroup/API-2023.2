@@ -16,6 +16,9 @@
 <p> • Desenvolver interfaces (front-end). </p>
 <p> • Conexão do front-end com o back-end (Banco de dados receber e transmitir dados juntamente a aplicação em desenvolvimento). </p>
 
+### Projeto em deploy
+https://greenneat-app.vercel.app
+
 # 📉 Burndown
 <div align="left">
  <img src="https://github.com/4DeskGroup/API-2023.2/blob/main/Projeto/Sprint%204/Gifs/burndown-4-sprint.png" width="600" height="400"/>
