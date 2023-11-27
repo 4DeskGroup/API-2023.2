@@ -36,7 +36,7 @@
  
  # :bulb: Backlog
  <div align="left">
-   <img align="center" src="docs/backlog-ray.jpg" width="500" height="300"/>
+   <img align="center" src="https://github.com/4DeskGroup/API-2023.2/blob/main/docs/backlog%5B.jpg" width="500" height="300"/>
  </div>
 
 
